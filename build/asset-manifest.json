@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.797c3cec.css",
+    "main.js": "/static/js/main.316e1f6f.js",
+    "static/js/787.69b12325.chunk.js": "/static/js/787.69b12325.chunk.js",
+    "static/media/violet.png": "/static/media/violet.ddc0271e51e245b79533.png",
+    "static/media/soifon.png": "/static/media/soifon.1c4493c071fc3a56dae4.png",
+    "static/media/demon.png": "/static/media/demon.fe66a6dc4dc9d8904963.png",
+    "static/media/luffy.png": "/static/media/luffy.28ad752aa65d6a71051d.png",
+    "static/media/yuno.png": "/static/media/yuno.7eca622081ca33269d17.png",
+    "static/media/sasuke.png": "/static/media/sasuke.df26c77eec39cb50ff74.png",
+    "static/media/default.jpeg": "/static/media/default.35bcfaaec0bc727d1f07.jpeg",
+    "index.html": "/index.html",
+    "main.797c3cec.css.map": "/static/css/main.797c3cec.css.map",
+    "main.316e1f6f.js.map": "/static/js/main.316e1f6f.js.map",
+    "787.69b12325.chunk.js.map": "/static/js/787.69b12325.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.797c3cec.css",
+    "static/js/main.316e1f6f.js"
+  ]
+}
